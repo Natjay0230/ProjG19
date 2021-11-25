@@ -1,0 +1,9 @@
+home:
+  path: /home
+  controller: App\Controller\HomeController::home
+  
+admin:
+  path: /admin
+  controller: App\Controller\AdminController::admin
+
+
